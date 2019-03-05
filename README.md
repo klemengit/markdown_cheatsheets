@@ -1,2 +1,2 @@
-# markdown_cheatsheets
+# MarkDown CheatSheets
 Basic commands for various stuff
